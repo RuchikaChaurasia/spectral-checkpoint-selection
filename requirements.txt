@@ -1,0 +1,12 @@
+
+torch
+torchvision
+datasets
+imagehash
+pyyaml
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+weightwatcher
