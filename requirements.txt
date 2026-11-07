@@ -1,12 +1,13 @@
-
-torch
-torchvision
-datasets
-imagehash
-pyyaml
-numpy
-pandas
-scikit-learn
-matplotlib
-pillow
+# Python 3.13. Versions from the clean-checkout check on Kaggle (Nov 7 2026).
+torch==2.11.0
+torchvision==0.26.0
+datasets==4.8.5
+imagehash==4.3.2
+pyyaml==6.0.3
+numpy==2.1.3
+pandas==2.3.3
+scikit-learn==1.6.1
+matplotlib==3.10.0
+pillow==13.0.0
+# weightwatcher: version to be pinned by the spectral-analysis owner
 weightwatcher
