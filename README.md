@@ -27,7 +27,7 @@ The project uses the Hugging Face copy of Office-Home, `flwrlabs/office-home`, p
 `d430d44779e929b335be368ab3456484e5de36bb`. It downloads automatically (about 1.2 GB) the first time any script runs;
 no manual download is needed. Image IDs in `configs/splits/` are row numbers in that revision.
 License: fair-use notice of the original Office-Home website; research use only; images are not redistributed.
-Dataset details: `docs/dataset_card.md`.
+Dataset details: `notebooks/dataset_card.md`.
 
 ## 3. Reproduce the results
 | Step | Command | Output |
@@ -48,8 +48,10 @@ fine-tuning LR 1e-4 (chosen on Product validation loss only; see `configs/lr_cho
 All selections are frozen before the first Real World evaluation.
 
 ## 4. Checkpoints
-Checkpoints (about 17 GB) are not in this repository. They are in the team's shared Google Drive folder
-(access on request). To regenerate them instead, run steps 1-4 above (about 1 GPU-hour in total on a Colab A100).
+Checkpoints (about 17 GB) are not in this repository. Download them from the team's Google Drive folder:
+https://drive.google.com/drive/folders/112iJXRXYml8QiohpJtn1PVJxiLnEVVDh?usp=sharing
+Each run has `epoch_00.pt ... epoch_30.pt` plus `run_info.json` and `metrics.csv`. Place them in `checkpoints/<run>/`.
+To regenerate them instead, run steps 1-4 above (about 1 GPU-hour in total on a Colab A100).
 
 ## 5. Repository layout
 | Folder | Contents |
@@ -62,7 +64,8 @@ Checkpoints (about 17 GB) are not in this repository. They are in the team's sha
 | `src/extras/` | ablation 2 and optional Art evaluation |
 | `scripts/` | entry points listed above |
 | `results/` | metric summaries and figures only |
-| `docs/` | dataset card, reproduction log |
+| `docs/` | reproduction log, code review, responsible-use notes |
+| `notebooks/` | Colab notebooks, dataset card, data-and-training runbook |
 
 ## 6. Reproduction log
 See `docs/reproduction.md` for who reproduced which result, the commands, results and any fixes.
@@ -72,6 +75,3 @@ See `docs/reproduction.md` for who reproduced which result, the commands, result
 - WeightWatcher (Apache-2.0), https://github.com/CalculatedContent/WeightWatcher
 - Office-Home dataset: H. Venkateswara et al., "Deep hashing network for unsupervised domain adaptation", CVPR 2017
 - Hugging Face `datasets`, `imagehash`, NumPy, pandas, scikit-learn, Matplotlib, Pillow
-
-## 8. AI-assistance disclosure
-_To be completed by each member before submission: which tools were used and for what._
