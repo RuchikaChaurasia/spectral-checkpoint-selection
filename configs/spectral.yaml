@@ -1,0 +1,18 @@
+# Settings for the WeightWatcher analysis and Rule W (owner: Ruchika).
+# Fixed in the proposal. Change a value here only with an entry in docs/decisions.md.
+rule_w:
+  threshold: 2.0          # mean alpha below this counts as "over-trained"
+  final_epoch: 30         # selected if the rule never fires
+  first_epoch: 1          # epoch 0 (random head) is never analysed for the rule
+  primary:
+    scope: all            # all analyzable layers
+    patience: 2           # consecutive epochs below the threshold
+ablations:
+  scopes: [all, last_stage]   # last_stage = layer4.* + fc
+  patiences: [1, 2, 3]
+weightwatcher:
+  settings: library defaults (weightwatcher 0.7.7), no extra arguments to analyze()
+runs:
+  mode: finetune          # linear-probe runs train only the head, so no spectral analysis
+  budgets: [10, 25, 50, 100]
+  seeds: [42, 123, 999]
