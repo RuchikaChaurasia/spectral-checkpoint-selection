@@ -1,0 +1,63 @@
+{
+  "run_name": "lp_b100_s42",
+  "mode": "linear_probe",
+  "budget_percent": 100,
+  "seed": 42,
+  "lr": 0.001,
+  "epochs": 30,
+  "batch_size": 32,
+  "optimizer": "AdamW",
+  "weight_decay": 0.01,
+  "amp": true,
+  "pretrained_weights": "IMAGENET1K_V1",
+  "image": {
+    "size": 224,
+    "resize_eval": 256,
+    "train_crop_scale": [
+      0.6,
+      1.0
+    ],
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "n_train": 3551,
+  "n_val": 444,
+  "trainable_params": 33345,
+  "total_params": 11209857,
+  "hf_revision": "d430d44779e929b335be368ab3456484e5de36bb",
+  "split_seed": 0,
+  "product_split_sha256": "df7fa0d4006df84ef427b53b41154454d383f2d1e99cde1986239ffeb9c5ba6c",
+  "budget_file_sha256": null,
+  "checkpoints_saved": true,
+  "command": "/content/drive/MyDrive/DeepLearning/group9/src/train/train.py --mode linear_probe --budget 100 --seed 42 --resume",
+  "env": {
+    "python": "3.13.16",
+    "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "datasets": "4.8.5",
+    "numpy": "2.4.6",
+    "cuda_available": true,
+    "cuda_version": "13.0",
+    "cudnn_version": 92800,
+    "gpu": "NVIDIA A100-SXM4-40GB",
+    "gpu_memory_gb": 42.4,
+    "cpu_count": 12,
+    "hostname": "d2475bd37ece",
+    "git_commit": null
+  },
+  "started_at_utc": "2026-11-07T16:24:12+00:00",
+  "finished_at_utc": "2026-11-07T16:27:05+00:00",
+  "train_seconds_total": 167.7,
+  "seconds_this_session": 172.5,
+  "lowest_val_loss_epoch": 26,
+  "lowest_val_loss_rule": "lowest Product val loss over epochs 1..E; earliest epoch on ties"
+}
