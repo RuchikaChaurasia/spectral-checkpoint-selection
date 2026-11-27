@@ -1,0 +1,7 @@
+run,row_id,true_class,val_loss_class,rule_w_class,val_loss_confidence,rule_w_confidence,category
+ft_b100_s999,11993,Calculator,Keyboard,Calculator,0.8245,0.99983,Rule W fixes
+ft_b100_s123,11447,Bucket,Trash_Can,Bucket,0.45209,0.99779,Rule W fixes
+ft_b100_s123,12222,Calendar,Calendar,Ruler,0.99991,0.57518,Rule W breaks
+ft_b100_s123,14938,Speaker,Speaker,Trash_Can,0.99944,0.36909,Rule W breaks
+ft_b100_s42,11251,Backpack,Backpack,Backpack,1.0,1.0,Both correct
+ft_b100_s123,13307,Batteries,Soda,Soda,0.99998,0.99972,Both wrong
