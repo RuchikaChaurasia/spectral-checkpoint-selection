@@ -1,7 +1,7 @@
 # Dataset Card: Office-Home (Group 9)
 
 *Owner: Disha Rawat. Numbers come from `results/data_audit/` and `configs/splits/split_summary.json`,
-written by `src/data/audit.py`, `src/data/make_splits.py` and `notebooks/dataset_card_review.ipynb`.*
+written by `src/data/audit.py`, `src/data/make_splits.py` and `notebooks/Group9_Dataset_Card.ipynb`.*
 
 ## 1. Source and version
 | Item | Value |
@@ -119,7 +119,9 @@ median 67. Full table in the appendix; figure `results/figures/product_class_dis
 - **Not for:** deployment, or any claim about people.
 
 ## 9. Representative examples
-`results/figures/examples_product_vs_realworld.png` shows the same classes in Product and Real World.
+`src/data/audit.py` writes `results/figures/examples_product_vs_realworld.png`, which shows the same classes in
+Product and Real World. It is not committed, because the repository does not redistribute Office-Home images;
+run `bash scripts/01_data.sh` to create it locally.
 Review sheets used for this card (not committed): `outputs/audit/review/`.
 
 ## Appendix: images per class and domain
