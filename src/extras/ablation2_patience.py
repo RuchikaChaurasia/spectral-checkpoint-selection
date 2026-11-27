@@ -51,7 +51,9 @@ def rule_w_epoch(alpha_by_epoch: dict, patience: int, threshold: float = THRESHO
     return final_epoch, False
 
 
-def select(alpha_log: pd.DataFrame) -> pd.DataFrame:
+def select(alpha_log: pd.DataFrame, scope: str = "all") -> pd.DataFrame:
+    if "scope" in alpha_log.columns:  # the log holds one row per scope; Ablation 2 uses the main scope only
+        alpha_log = alpha_log[alpha_log.scope == scope]
     rows = []
     for (run, budget, seed), g in alpha_log.groupby(["run", "budget", "seed"]):
         alphas = dict(zip(g.epoch.astype(int), g.mean_alpha.astype(float)))
