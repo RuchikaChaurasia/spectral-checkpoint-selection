@@ -9,5 +9,5 @@ pandas==2.3.3
 scikit-learn==1.6.1
 matplotlib==3.10.0
 pillow==13.0.0
-# weightwatcher: version to be pinned by the spectral-analysis owner
-weightwatcher
+# weightwatcher pinned to the version used for the alpha logs (Nov 26 2026)
+weightwatcher==0.7.7
