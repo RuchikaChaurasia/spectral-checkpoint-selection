@@ -1,0 +1,57 @@
+# Group 9 - shared settings for data and training (owner: Disha)
+# Every run reads this file. Change a value here, never inside the code.
+
+data:
+  hf_name: flwrlabs/office-home
+  # Pinned dataset version (commit d430d44 on the Hugging Face hub, 29 Aug 2024).
+  # Row numbers in this revision are the image IDs used in every manifest.
+  hf_revision: d430d44779e929b335be368ab3456484e5de36bb
+  source_domain: Product
+  target_domain: "Real World"        # spelled with a space in the HF dataset
+  extra_domains: [Art, Clipart]
+  num_classes: 65
+  expected_counts:                   # from the proposal; the audit checks these
+    total: 15588
+    Art: 2427
+    Clipart: 4365
+    Product: 4439
+    "Real World": 4357
+
+split:
+  seed: 0                            # fixed once, never changed, separate from training seeds
+  fractions: {train: 0.8, val: 0.1, test: 0.1}
+  expected: {train: 3551, val: 444, test: 444}
+  near_dup_hamming: 4                # pHash distance (0-64) at or below which two images count as near-duplicates
+
+budgets:
+  percents: [10, 25, 50, 100]
+  seeds: [42, 123, 999]              # training seeds, as in the proposal
+
+image:
+  size: 224
+  resize_eval: 256                   # eval: resize short side to 256, center-crop 224
+  train_crop_scale: [0.6, 1.0]       # train: RandomResizedCrop(224, scale) + horizontal flip
+  mean: [0.485, 0.456, 0.406]        # fixed ImageNet normalization
+  std: [0.229, 0.224, 0.225]
+
+train:
+  epochs: 30
+  batch_size: 32
+  optimizer: adamw
+  weight_decay: 0.01
+  lr_candidates: [1.0e-4, 3.0e-4]    # fine-tuning LR pilot; winner chosen on Product validation loss only
+  pilot_seed: 42
+  pilot_budget: 100
+  linear_probe_lr: 1.0e-3            # TEAM DECISION: confirm, or run the same pilot for the probe
+  num_workers: 4
+  amp: true                          # mixed precision on GPU (same setting for every run)
+  pretrained_weights: IMAGENET1K_V1  # torchvision ResNet-18 ImageNet weights
+
+paths:
+  splits_dir: configs/splits         # committed manifests
+  lr_choice: configs/lr_choice.json  # written by the LR pilot, read by run_all
+  results_dir: results               # metric summaries and figures only
+  audit_dir: results/data_audit      # small audit summaries (committed)
+  figures_dir: results/figures
+  checkpoints_dir: checkpoints       # large, NOT committed (keep on local disk until the freeze)
+  outputs_dir: outputs               # predictions and audit image dumps, NOT committed
