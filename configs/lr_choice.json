@@ -1,0 +1,23 @@
+{
+  "chosen_lr": 0.0001,
+  "rule": "smallest minimum Product validation loss over epochs 1..E (pilot seed, pilot budget)",
+  "pilot_seed": 42,
+  "pilot_budget": 100,
+  "candidates": {
+    "0.0001": {
+      "lr": 0.0001,
+      "min_val_loss": 0.4368150298659866,
+      "at_epoch": 12,
+      "val_acc_at_min": 0.8806306306306306,
+      "epochs_logged": 30
+    },
+    "0.0003": {
+      "lr": 0.0003,
+      "min_val_loss": 0.5785790434828749,
+      "at_epoch": 15,
+      "val_acc_at_min": 0.8445945945945946,
+      "epochs_logged": 30
+    }
+  },
+  "chosen_at_utc": "2026-11-07T16:36:55+00:00"
+}
