@@ -31,3 +31,4 @@ deployment there would be no way to check whether the chosen checkpoint transfer
 **License.** Office-Home is distributed under a fair-use notice for research, not an open license; we use it only for
 this course project, with attribution, and our repository contains row IDs, labels and summaries but no images.
 
+**Rule W was not tested where it fires.** Mean alpha stayed between 3.33 and 4.30 in every run and never fell below the 2.0 threshold, so Rule W always selected the final epoch. Our results therefore show that this threshold does not trigger for ImageNet-pretrained ResNet-18 fine-tuned on Office-Home within 30 epochs; they do not show whether an alpha-based rule could help checkpoint selection under domain shift in general.
