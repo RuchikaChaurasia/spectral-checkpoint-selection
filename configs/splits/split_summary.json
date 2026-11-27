@@ -1,0 +1,407 @@
+{
+  "made_at_utc": "2026-11-07T16:24:01+00:00",
+  "hf_revision": "d430d44779e929b335be368ab3456484e5de36bb",
+  "split_seed": 0,
+  "near_dup_hamming": 4,
+  "product_split_sha256": "df7fa0d4006df84ef427b53b41154454d383f2d1e99cde1986239ffeb9c5ba6c",
+  "checks": {
+    "counts": {
+      "train": {
+        "found": 3551,
+        "expected": 3551,
+        "status": "PASS"
+      },
+      "val": {
+        "found": 444,
+        "expected": 444,
+        "status": "PASS"
+      },
+      "test": {
+        "found": 444,
+        "expected": 444,
+        "status": "PASS"
+      }
+    },
+    "duplicate_groups_crossing_splits": 0,
+    "classes_missing_from_a_split": "none"
+  },
+  "budgets": {
+    "42": {
+      "sizes": {
+        "b10": 355,
+        "b25": 888,
+        "b50": 1776,
+        "b100": 3551
+      },
+      "nested": true,
+      "min_images_per_class_b10": 3,
+      "sha256": "1fb86b25cfc75e380cdf7712d1ea685dc6ccabf3b6b6f3f49713470b43c8195c"
+    },
+    "123": {
+      "sizes": {
+        "b10": 355,
+        "b25": 888,
+        "b50": 1776,
+        "b100": 3551
+      },
+      "nested": true,
+      "min_images_per_class_b10": 3,
+      "sha256": "4d17dafe6d6b238079287c484aeabe137b7fce518f1f78cc09f5b1ae1392fd6a"
+    },
+    "999": {
+      "sizes": {
+        "b10": 355,
+        "b25": 888,
+        "b50": 1776,
+        "b100": 3551
+      },
+      "nested": true,
+      "min_images_per_class_b10": 3,
+      "sha256": "7c35908694448fd5d4aee32f05f553a759a14c09442eeecda7a6e303186b6ab1"
+    }
+  },
+  "targets": {
+    "Real World": {
+      "file": "target_real_world.csv",
+      "n": 4357,
+      "sha256": "7ec419232f7f2a0c0b8dc1ddc4d22b0adb3d36c9aadce571af4e93429b316c5a"
+    },
+    "Art": {
+      "file": "target_art.csv",
+      "n": 2427,
+      "sha256": "9b3cad5cc91b5ebf8e66bed1320e824dec1d4e21afbd731f111656c28719fefc"
+    },
+    "Clipart": {
+      "file": "target_clipart.csv",
+      "n": 4365,
+      "sha256": "5fb649ae2d264da3cf04f483c04e077ae13c8e6d5423314bf39838d18d82b74c"
+    }
+  },
+  "per_class_split_counts": {
+    "Alarm_Clock": {
+      "test": 8,
+      "train": 63,
+      "val": 8
+    },
+    "Backpack": {
+      "test": 10,
+      "train": 79,
+      "val": 10
+    },
+    "Batteries": {
+      "test": 6,
+      "train": 50,
+      "val": 6
+    },
+    "Bed": {
+      "test": 4,
+      "train": 36,
+      "val": 3
+    },
+    "Bike": {
+      "test": 4,
+      "train": 36,
+      "val": 4
+    },
+    "Bottle": {
+      "test": 6,
+      "train": 50,
+      "val": 6
+    },
+    "Bucket": {
+      "test": 5,
+      "train": 37,
+      "val": 5
+    },
+    "Calculator": {
+      "test": 8,
+      "train": 65,
+      "val": 8
+    },
+    "Calendar": {
+      "test": 8,
+      "train": 65,
+      "val": 8
+    },
+    "Candles": {
+      "test": 6,
+      "train": 44,
+      "val": 6
+    },
+    "Chair": {
+      "test": 10,
+      "train": 79,
+      "val": 10
+    },
+    "Clipboards": {
+      "test": 7,
+      "train": 51,
+      "val": 7
+    },
+    "Computer": {
+      "test": 10,
+      "train": 77,
+      "val": 9
+    },
+    "Couch": {
+      "test": 9,
+      "train": 70,
+      "val": 9
+    },
+    "Curtains": {
+      "test": 7,
+      "train": 61,
+      "val": 7
+    },
+    "Desk_Lamp": {
+      "test": 8,
+      "train": 67,
+      "val": 8
+    },
+    "Drill": {
+      "test": 7,
+      "train": 53,
+      "val": 7
+    },
+    "Eraser": {
+      "test": 4,
+      "train": 33,
+      "val": 4
+    },
+    "Exit_Sign": {
+      "test": 7,
+      "train": 53,
+      "val": 7
+    },
+    "Fan": {
+      "test": 6,
+      "train": 46,
+      "val": 6
+    },
+    "File_Cabinet": {
+      "test": 8,
+      "train": 56,
+      "val": 7
+    },
+    "Flipflops": {
+      "test": 10,
+      "train": 79,
+      "val": 10
+    },
+    "Flowers": {
+      "test": 9,
+      "train": 73,
+      "val": 9
+    },
+    "Folder": {
+      "test": 8,
+      "train": 73,
+      "val": 9
+    },
+    "Fork": {
+      "test": 4,
+      "train": 33,
+      "val": 4
+    },
+    "Glasses": {
+      "test": 7,
+      "train": 53,
+      "val": 7
+    },
+    "Hammer": {
+      "test": 6,
+      "train": 45,
+      "val": 6
+    },
+    "Helmet": {
+      "test": 9,
+      "train": 72,
+      "val": 9
+    },
+    "Kettle": {
+      "test": 7,
+      "train": 58,
+      "val": 7
+    },
+    "Keyboard": {
+      "test": 10,
+      "train": 79,
+      "val": 10
+    },
+    "Knives": {
+      "test": 4,
+      "train": 33,
+      "val": 4
+    },
+    "Lamp_Shade": {
+      "test": 5,
+      "train": 44,
+      "val": 5
+    },
+    "Laptop": {
+      "test": 9,
+      "train": 79,
+      "val": 11
+    },
+    "Marker": {
+      "test": 6,
+      "train": 44,
+      "val": 6
+    },
+    "Monitor": {
+      "test": 10,
+      "train": 78,
+      "val": 10
+    },
+    "Mop": {
+      "test": 7,
+      "train": 58,
+      "val": 7
+    },
+    "Mouse": {
+      "test": 10,
+      "train": 76,
+      "val": 10
+    },
+    "Mug": {
+      "test": 4,
+      "train": 33,
+      "val": 4
+    },
+    "Notebook": {
+      "test": 9,
+      "train": 75,
+      "val": 9
+    },
+    "Oven": {
+      "test": 7,
+      "train": 54,
+      "val": 7
+    },
+    "Pan": {
+      "test": 7,
+      "train": 56,
+      "val": 7
+    },
+    "Paper_Clip": {
+      "test": 5,
+      "train": 37,
+      "val": 5
+    },
+    "Pen": {
+      "test": 6,
+      "train": 48,
+      "val": 6
+    },
+    "Pencil": {
+      "test": 4,
+      "train": 32,
+      "val": 4
+    },
+    "Postit_Notes": {
+      "test": 4,
+      "train": 30,
+      "val": 4
+    },
+    "Printer": {
+      "test": 10,
+      "train": 79,
+      "val": 10
+    },
+    "Push_Pin": {
+      "test": 4,
+      "train": 35,
+      "val": 4
+    },
+    "Radio": {
+      "test": 4,
+      "train": 35,
+      "val": 4
+    },
+    "Refrigerator": {
+      "test": 6,
+      "train": 47,
+      "val": 6
+    },
+    "Ruler": {
+      "test": 6,
+      "train": 46,
+      "val": 6
+    },
+    "Scissors": {
+      "test": 10,
+      "train": 79,
+      "val": 10
+    },
+    "Screwdriver": {
+      "test": 4,
+      "train": 32,
+      "val": 4
+    },
+    "Shelf": {
+      "test": 5,
+      "train": 39,
+      "val": 5
+    },
+    "Sink": {
+      "test": 5,
+      "train": 36,
+      "val": 5
+    },
+    "Sneakers": {
+      "test": 10,
+      "train": 79,
+      "val": 10
+    },
+    "Soda": {
+      "test": 4,
+      "train": 35,
+      "val": 4
+    },
+    "Speaker": {
+      "test": 10,
+      "train": 79,
+      "val": 10
+    },
+    "Spoon": {
+      "test": 5,
+      "train": 37,
+      "val": 5
+    },
+    "TV": {
+      "test": 7,
+      "train": 62,
+      "val": 7
+    },
+    "Table": {
+      "test": 6,
+      "train": 48,
+      "val": 6
+    },
+    "Telephone": {
+      "test": 6,
+      "train": 46,
+      "val": 6
+    },
+    "ToothBrush": {
+      "test": 4,
+      "train": 34,
+      "val": 4
+    },
+    "Toys": {
+      "test": 4,
+      "train": 37,
+      "val": 4
+    },
+    "Trash_Can": {
+      "test": 9,
+      "train": 75,
+      "val": 9
+    },
+    "Webcam": {
+      "test": 10,
+      "train": 78,
+      "val": 10
+    }
+  }
+}
