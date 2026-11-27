@@ -1,0 +1,458 @@
+row_id,domain,class,reasons
+63,Art,Calculator,aspect ratio 3.9
+841,Art,Keyboard,aspect ratio 3.0
+957,Art,Backpack,aspect ratio 3.8
+1026,Art,Monitor,aspect ratio 3.2
+1613,Art,File_Cabinet,aspect ratio 3.2
+2182,Art,ToothBrush,aspect ratio 4.0
+2446,Clipart,Scissors,aspect ratio 3.3
+2478,Clipart,Bottle,aspect ratio 3.0
+2497,Clipart,Glasses,aspect ratio 3.0
+2522,Clipart,Candles,aspect ratio 4.4
+2546,Clipart,Soda,aspect ratio 4.4
+2560,Clipart,Paper_Clip,aspect ratio 3.2
+2568,Clipart,Batteries,aspect ratio 3.6
+2586,Clipart,Ruler,tiny 600x29; aspect ratio 20.7
+2618,Clipart,Ruler,tiny 140x4; aspect ratio 35.0
+2623,Clipart,Bottle,aspect ratio 4.4
+2656,Clipart,ToothBrush,aspect ratio 5.9
+2674,Clipart,Spoon,aspect ratio 3.9
+2678,Clipart,Toys,aspect ratio 5.1
+2679,Clipart,Screwdriver,tiny 140x35; aspect ratio 4.0
+2705,Clipart,Alarm_Clock,tiny 25x32
+2726,Clipart,Keyboard,aspect ratio 5.7
+2731,Clipart,Ruler,aspect ratio 4.0
+2734,Clipart,Keyboard,aspect ratio 3.7
+2756,Clipart,Spoon,aspect ratio 3.9
+2761,Clipart,Fork,aspect ratio 6.1
+2765,Clipart,Glasses,aspect ratio 4.3
+2768,Clipart,Pen,tiny 400x40; aspect ratio 10.0
+2794,Clipart,Spoon,aspect ratio 4.4
+2801,Clipart,Glasses,tiny 140x59
+2849,Clipart,Ruler,tiny 400x55; aspect ratio 7.3
+2852,Clipart,Fork,aspect ratio 7.1
+2889,Clipart,Batteries,aspect ratio 3.6
+2891,Clipart,Spoon,aspect ratio 5.1
+2906,Clipart,Bottle,aspect ratio 3.3
+2917,Clipart,Speaker,tiny 60x47
+2925,Clipart,Pencil,tiny 600x56; aspect ratio 10.7
+2932,Clipart,Fork,aspect ratio 6.1
+2966,Clipart,Telephone,aspect ratio 3.3
+2981,Clipart,Ruler,aspect ratio 4.1
+2983,Clipart,Couch,tiny 140x59
+2994,Clipart,Mop,tiny 30x140; aspect ratio 4.7
+3039,Clipart,Candles,aspect ratio 5.1
+3044,Clipart,Pen,tiny 54x554; aspect ratio 10.3
+3045,Clipart,Glasses,tiny 101x47
+3073,Clipart,Candles,aspect ratio 3.1
+3089,Clipart,Screwdriver,tiny 18x140; aspect ratio 7.8
+3183,Clipart,Bottle,aspect ratio 3.5
+3186,Clipart,Keyboard,aspect ratio 3.3
+3209,Clipart,Exit_Sign,aspect ratio 3.9
+3213,Clipart,Keyboard,aspect ratio 4.0
+3222,Clipart,Bottle,aspect ratio 3.2
+3226,Clipart,Bottle,aspect ratio 3.1
+3260,Clipart,Spoon,aspect ratio 5.2
+3264,Clipart,Bottle,aspect ratio 3.2
+3271,Clipart,Eraser,tiny 53x50
+3288,Clipart,Computer,tiny 140x61
+3299,Clipart,Bottle,aspect ratio 3.8
+3302,Clipart,Ruler,aspect ratio 4.9
+3336,Clipart,Candles,aspect ratio 3.4
+3344,Clipart,Candles,aspect ratio 5.0
+3353,Clipart,Ruler,tiny 400x39; aspect ratio 10.3
+3359,Clipart,Ruler,aspect ratio 4.5
+3369,Clipart,ToothBrush,aspect ratio 3.6
+3377,Clipart,Bottle,aspect ratio 3.8
+3445,Clipart,Ruler,tiny 400x62; aspect ratio 6.5
+3447,Clipart,Marker,aspect ratio 9.4
+3456,Clipart,Couch,tiny 140x58
+3485,Clipart,Shelf,tiny 140x54
+3496,Clipart,Ruler,tiny 600x53; aspect ratio 11.3
+3551,Clipart,Exit_Sign,aspect ratio 4.9
+3556,Clipart,Screwdriver,tiny 140x28; aspect ratio 5.0
+3557,Clipart,Spoon,tiny 32x140; aspect ratio 4.4
+3574,Clipart,Candles,aspect ratio 4.1
+3575,Clipart,Batteries,aspect ratio 3.5
+3585,Clipart,Marker,tiny 140x57
+3588,Clipart,Screwdriver,aspect ratio 3.2
+3600,Clipart,Spoon,aspect ratio 3.9
+3628,Clipart,Knives,aspect ratio 3.9
+3636,Clipart,Spoon,aspect ratio 5.2
+3638,Clipart,Screwdriver,tiny 43x140; aspect ratio 3.3
+3649,Clipart,Keyboard,aspect ratio 3.1
+3653,Clipart,Printer,tiny 48x48
+3692,Clipart,File_Cabinet,aspect ratio 3.1
+3732,Clipart,Keyboard,aspect ratio 3.1
+3733,Clipart,Glasses,tiny 140x59
+3748,Clipart,Screwdriver,tiny 53x400; aspect ratio 7.5
+3783,Clipart,Knives,aspect ratio 5.7
+3800,Clipart,Screwdriver,aspect ratio 6.2
+3803,Clipart,Pan,tiny 140x52
+3809,Clipart,Ruler,tiny 400x38; aspect ratio 10.5
+3812,Clipart,Bottle,aspect ratio 3.3
+3832,Clipart,Fork,aspect ratio 6.1
+3850,Clipart,Paper_Clip,tiny 140x40; aspect ratio 3.5
+3876,Clipart,Exit_Sign,aspect ratio 4.3
+3895,Clipart,Keyboard,aspect ratio 3.3
+3941,Clipart,Bottle,aspect ratio 3.3
+3973,Clipart,Candles,aspect ratio 4.3
+3994,Clipart,Paper_Clip,tiny 140x40; aspect ratio 3.5
+3997,Clipart,Batteries,aspect ratio 3.5
+4003,Clipart,Pencil,tiny 600x24; aspect ratio 25.0
+4023,Clipart,Screwdriver,tiny 30x140; aspect ratio 4.7
+4024,Clipart,Fan,aspect ratio 4.4
+4065,Clipart,Candles,aspect ratio 3.2
+4068,Clipart,Toys,aspect ratio 3.1
+4076,Clipart,Glasses,tiny 140x60
+4080,Clipart,Keyboard,aspect ratio 3.1
+4084,Clipart,Ruler,tiny 400x62; aspect ratio 6.5
+4094,Clipart,Marker,aspect ratio 5.3
+4095,Clipart,Spoon,aspect ratio 3.9
+4100,Clipart,Scissors,aspect ratio 3.1
+4101,Clipart,Candles,aspect ratio 4.3
+4102,Clipart,Pencil,aspect ratio 4.5
+4115,Clipart,Pencil,aspect ratio 7.8
+4151,Clipart,Fork,tiny 32x32
+4167,Clipart,Soda,tiny 31x140; aspect ratio 4.5
+4179,Clipart,Glasses,tiny 140x60
+4186,Clipart,Pen,aspect ratio 7.6
+4190,Clipart,Knives,aspect ratio 3.6
+4202,Clipart,Ruler,tiny 140x12; aspect ratio 11.7
+4210,Clipart,Mop,aspect ratio 3.4
+4224,Clipart,Keyboard,aspect ratio 3.2
+4225,Clipart,Screwdriver,tiny 28x140; aspect ratio 5.0
+4246,Clipart,Couch,tiny 140x58
+4247,Clipart,Pencil,tiny 600x52; aspect ratio 11.5
+4268,Clipart,Alarm_Clock,tiny 32x32
+4275,Clipart,Spoon,aspect ratio 4.7
+4295,Clipart,Pencil,tiny 42x556; aspect ratio 13.2
+4296,Clipart,Ruler,tiny 140x6; aspect ratio 23.3
+4304,Clipart,Bottle,aspect ratio 3.6
+4305,Clipart,Bottle,aspect ratio 3.2
+4308,Clipart,Spoon,aspect ratio 4.4
+4311,Clipart,Pencil,tiny 600x36; aspect ratio 16.7
+4321,Clipart,Bottle,aspect ratio 3.3
+4352,Clipart,Ruler,aspect ratio 4.3
+4355,Clipart,Glasses,tiny 140x54
+4365,Clipart,Bottle,aspect ratio 3.7
+4382,Clipart,Pencil,aspect ratio 3.8
+4394,Clipart,Glasses,tiny 140x38; aspect ratio 3.7
+4402,Clipart,Candles,aspect ratio 4.1
+4421,Clipart,Lamp_Shade,aspect ratio 3.1
+4452,Clipart,Pencil,tiny 600x52; aspect ratio 11.5
+4461,Clipart,Fork,aspect ratio 3.4
+4467,Clipart,Marker,tiny 140x26; aspect ratio 5.4
+4480,Clipart,Knives,tiny 400x52; aspect ratio 7.7
+4492,Clipart,Spoon,aspect ratio 3.9
+4528,Clipart,Bottle,aspect ratio 3.1
+4540,Clipart,Marker,tiny 140x26; aspect ratio 5.4
+4550,Clipart,Bottle,aspect ratio 3.0
+4558,Clipart,Keyboard,aspect ratio 3.1
+4602,Clipart,Keyboard,aspect ratio 3.1
+4614,Clipart,Fork,aspect ratio 4.0
+4615,Clipart,Fork,tiny 140x22; aspect ratio 6.4
+4619,Clipart,Glasses,aspect ratio 3.4
+4638,Clipart,Knives,tiny 42x400; aspect ratio 9.5
+4664,Clipart,Glasses,tiny 140x53
+4703,Clipart,Marker,tiny 140x26; aspect ratio 5.4
+4712,Clipart,Ruler,aspect ratio 6.4
+4716,Clipart,Screwdriver,aspect ratio 4.6
+4718,Clipart,Knives,tiny 42x400; aspect ratio 9.5
+4720,Clipart,Ruler,aspect ratio 4.6
+4728,Clipart,Curtains,aspect ratio 4.5
+4731,Clipart,Paper_Clip,aspect ratio 3.8
+4732,Clipart,Glasses,aspect ratio 3.7
+4767,Clipart,Keyboard,aspect ratio 3.7
+4774,Clipart,Knives,aspect ratio 5.6
+4785,Clipart,Mop,aspect ratio 3.4
+4800,Clipart,Pan,tiny 140x52
+4803,Clipart,Fork,tiny 60x400; aspect ratio 6.7
+4804,Clipart,Speaker,tiny 32x32
+4807,Clipart,Candles,aspect ratio 5.0
+4826,Clipart,Curtains,aspect ratio 3.2
+4847,Clipart,Pencil,tiny 600x36; aspect ratio 16.7
+4878,Clipart,Marker,aspect ratio 5.3
+4891,Clipart,Pan,aspect ratio 4.3
+4895,Clipart,Speaker,tiny 42x111
+4917,Clipart,Knives,aspect ratio 3.3
+4918,Clipart,Bottle,aspect ratio 3.0
+4950,Clipart,Postit_Notes,tiny 60x60
+4959,Clipart,Ruler,tiny 140x9; aspect ratio 15.6
+4979,Clipart,Flowers,aspect ratio 3.7
+5041,Clipart,Keyboard,aspect ratio 3.3
+5044,Clipart,Bottle,aspect ratio 3.1
+5057,Clipart,Ruler,aspect ratio 3.6
+5074,Clipart,Candles,aspect ratio 5.1
+5075,Clipart,Bottle,aspect ratio 3.7
+5082,Clipart,Couch,aspect ratio 3.5
+5089,Clipart,Ruler,tiny 140x21; aspect ratio 6.7
+5114,Clipart,Pencil,aspect ratio 6.7
+5118,Clipart,Exit_Sign,aspect ratio 4.3
+5134,Clipart,Pen,aspect ratio 3.8
+5137,Clipart,Mop,aspect ratio 4.6
+5146,Clipart,Screwdriver,tiny 62x400; aspect ratio 6.5
+5154,Clipart,Curtains,aspect ratio 4.6
+5166,Clipart,Ruler,tiny 400x50; aspect ratio 8.0
+5168,Clipart,Candles,aspect ratio 4.4
+5169,Clipart,Ruler,aspect ratio 4.9
+5175,Clipart,Keyboard,aspect ratio 3.1
+5182,Clipart,Candles,aspect ratio 4.8
+5184,Clipart,Ruler,aspect ratio 6.4
+5228,Clipart,Ruler,aspect ratio 6.2
+5230,Clipart,Fork,aspect ratio 3.2
+5270,Clipart,Ruler,tiny 140x11; aspect ratio 12.7
+5278,Clipart,Pencil,aspect ratio 4.3
+5284,Clipart,Screwdriver,tiny 32x140; aspect ratio 4.4
+5285,Clipart,Table,tiny 140x37; aspect ratio 3.8
+5292,Clipart,Fork,aspect ratio 6.0
+5293,Clipart,Screwdriver,tiny 140x30; aspect ratio 4.7
+5303,Clipart,Pen,aspect ratio 3.7
+5319,Clipart,Bottle,aspect ratio 3.2
+5343,Clipart,Glasses,tiny 140x51
+5387,Clipart,Screwdriver,tiny 37x62
+5391,Clipart,Knives,tiny 211x53; aspect ratio 4.0
+5409,Clipart,Marker,tiny 140x57
+5414,Clipart,Keyboard,aspect ratio 4.4
+5423,Clipart,Fork,aspect ratio 5.1
+5431,Clipart,Speaker,aspect ratio 3.2
+5443,Clipart,Screwdriver,aspect ratio 6.0
+5444,Clipart,Marker,tiny 140x57
+5474,Clipart,Pencil,aspect ratio 3.7
+5482,Clipart,Screwdriver,aspect ratio 6.4
+5491,Clipart,Spoon,tiny 140x28; aspect ratio 5.0
+5497,Clipart,Pen,tiny 140x11; aspect ratio 12.7
+5499,Clipart,Knives,aspect ratio 3.3
+5511,Clipart,Folder,aspect ratio 3.1
+5513,Clipart,Fork,aspect ratio 6.2
+5526,Clipart,Scissors,aspect ratio 3.3
+5548,Clipart,Paper_Clip,tiny 140x40; aspect ratio 3.5
+5552,Clipart,Refrigerator,tiny 50x100
+5577,Clipart,Keyboard,aspect ratio 3.5
+5579,Clipart,Keyboard,aspect ratio 3.7
+5589,Clipart,Screwdriver,aspect ratio 7.1
+5591,Clipart,Ruler,aspect ratio 4.8
+5601,Clipart,Bottle,aspect ratio 3.2
+5609,Clipart,Shelf,aspect ratio 3.2
+5612,Clipart,Glasses,tiny 140x47
+5629,Clipart,Telephone,aspect ratio 5.6
+5681,Clipart,Postit_Notes,tiny 63x140
+5695,Clipart,Soda,aspect ratio 4.4
+5696,Clipart,Exit_Sign,aspect ratio 6.1
+5744,Clipart,Bed,tiny 140x60
+5746,Clipart,Spoon,aspect ratio 3.2
+5765,Clipart,Soda,tiny 46x140; aspect ratio 3.0
+5783,Clipart,Drill,tiny 32x32
+5784,Clipart,Ruler,tiny 140x29; aspect ratio 4.8
+5815,Clipart,Curtains,aspect ratio 3.8
+5826,Clipart,Exit_Sign,aspect ratio 3.9
+5850,Clipart,Glasses,aspect ratio 3.2
+5865,Clipart,Ruler,tiny 140x21; aspect ratio 6.7
+5906,Clipart,Bottle,aspect ratio 4.1
+5910,Clipart,Fork,aspect ratio 3.6
+5911,Clipart,Fork,aspect ratio 6.0
+5927,Clipart,Exit_Sign,aspect ratio 5.3
+5951,Clipart,ToothBrush,aspect ratio 3.8
+5954,Clipart,Screwdriver,aspect ratio 4.6
+5971,Clipart,Bottle,aspect ratio 3.1
+6006,Clipart,Spoon,aspect ratio 5.6
+6018,Clipart,Soda,aspect ratio 4.4
+6023,Clipart,Pen,aspect ratio 3.4
+6039,Clipart,Spoon,aspect ratio 3.9
+6059,Clipart,Pen,aspect ratio 6.0
+6063,Clipart,Spoon,aspect ratio 6.0
+6064,Clipart,Ruler,tiny 140x11; aspect ratio 12.7
+6076,Clipart,Paper_Clip,aspect ratio 5.4
+6084,Clipart,Knives,tiny 400x50; aspect ratio 8.0
+6091,Clipart,Glasses,aspect ratio 3.2
+6096,Clipart,Glasses,tiny 140x47
+6108,Clipart,Computer,tiny 80x60
+6119,Clipart,Ruler,tiny 600x53; aspect ratio 11.3
+6161,Clipart,Fan,aspect ratio 4.7
+6173,Clipart,Pen,tiny 400x53; aspect ratio 7.5
+6178,Clipart,Spoon,aspect ratio 5.1
+6190,Clipart,Ruler,tiny 38x400; aspect ratio 10.5
+6192,Clipart,Screwdriver,aspect ratio 7.8
+6209,Clipart,Knives,aspect ratio 5.7
+6212,Clipart,Screwdriver,tiny 55x400; aspect ratio 7.3
+6223,Clipart,Glasses,tiny 140x42; aspect ratio 3.3
+6250,Clipart,Spoon,aspect ratio 5.2
+6259,Clipart,Couch,tiny 140x58
+6268,Clipart,Spoon,tiny 140x27; aspect ratio 5.2
+6270,Clipart,Ruler,aspect ratio 4.3
+6288,Clipart,Mop,aspect ratio 4.6
+6289,Clipart,Keyboard,aspect ratio 4.5
+6293,Clipart,Bottle,aspect ratio 4.4
+6295,Clipart,Telephone,aspect ratio 3.4
+6302,Clipart,Knives,aspect ratio 3.9
+6333,Clipart,Pen,aspect ratio 8.7
+6343,Clipart,Keyboard,aspect ratio 3.3
+6375,Clipart,Ruler,tiny 57x140
+6383,Clipart,Screwdriver,aspect ratio 6.4
+6399,Clipart,Batteries,aspect ratio 3.5
+6402,Clipart,Keyboard,aspect ratio 3.3
+6456,Clipart,Marker,tiny 140x26; aspect ratio 5.4
+6466,Clipart,Pen,aspect ratio 3.8
+6507,Clipart,Screwdriver,aspect ratio 5.6
+6508,Clipart,Spoon,aspect ratio 3.9
+6517,Clipart,Spoon,aspect ratio 3.9
+6541,Clipart,Spoon,aspect ratio 3.9
+6546,Clipart,Pencil,tiny 600x37; aspect ratio 16.2
+6552,Clipart,Keyboard,aspect ratio 3.8
+6555,Clipart,Screwdriver,aspect ratio 3.2
+6569,Clipart,Ruler,tiny 400x34; aspect ratio 11.8
+6612,Clipart,Pencil,aspect ratio 3.8
+6615,Clipart,Glasses,tiny 140x50
+6618,Clipart,Screwdriver,tiny 400x62; aspect ratio 6.5
+6623,Clipart,Bucket,tiny 18x18
+6632,Clipart,Ruler,aspect ratio 5.1
+6646,Clipart,Spoon,aspect ratio 5.2
+6650,Clipart,Fork,aspect ratio 3.9
+6686,Clipart,Ruler,aspect ratio 4.2
+6688,Clipart,Speaker,tiny 48x48
+6716,Clipart,Knives,aspect ratio 4.8
+6741,Clipart,Screwdriver,aspect ratio 6.0
+6746,Clipart,Pen,aspect ratio 7.6
+6756,Clipart,Ruler,tiny 28x140; aspect ratio 5.0
+6757,Clipart,Ruler,aspect ratio 4.7
+6785,Clipart,Keyboard,aspect ratio 3.7
+6797,Product,Flipflops,aspect ratio 3.2
+7049,Product,Scissors,aspect ratio 3.1
+7053,Product,Flipflops,aspect ratio 3.9
+7084,Product,Ruler,aspect ratio 3.5
+7094,Product,Batteries,aspect ratio 3.5
+7183,Product,Bottle,aspect ratio 3.2
+7249,Product,Ruler,aspect ratio 6.9
+7326,Product,Batteries,aspect ratio 3.5
+7353,Product,Ruler,aspect ratio 6.8
+7359,Product,Batteries,aspect ratio 3.5
+7382,Product,Bottle,aspect ratio 3.4
+7383,Product,Pen,aspect ratio 4.7
+7397,Product,Flipflops,aspect ratio 4.1
+7398,Product,Flipflops,aspect ratio 3.9
+7413,Product,Keyboard,aspect ratio 4.5
+7492,Product,Fork,aspect ratio 6.3
+7499,Product,Flipflops,aspect ratio 3.2
+7530,Product,Ruler,aspect ratio 3.7
+7555,Product,Flipflops,aspect ratio 4.5
+7589,Product,Pencil,aspect ratio 3.2
+7614,Product,Flipflops,aspect ratio 3.5
+7637,Product,Ruler,tiny 400x59; aspect ratio 6.8
+7662,Product,Flipflops,aspect ratio 3.0
+7706,Product,Laptop,aspect ratio 5.7
+7750,Product,Knives,aspect ratio 5.6
+7796,Product,Pen,aspect ratio 3.5
+7816,Product,Mop,aspect ratio 3.4
+7858,Product,Pen,aspect ratio 4.5
+8035,Product,Marker,aspect ratio 6.8
+8043,Product,Keyboard,aspect ratio 3.5
+8061,Product,Flipflops,aspect ratio 4.6
+8071,Product,Flipflops,aspect ratio 3.8
+8220,Product,Flipflops,aspect ratio 4.2
+8318,Product,Ruler,aspect ratio 4.7
+8321,Product,Backpack,aspect ratio 3.5
+8361,Product,Pencil,tiny 44x500; aspect ratio 11.4
+8374,Product,Flipflops,aspect ratio 3.6
+8398,Product,Knives,aspect ratio 5.9
+8428,Product,Flipflops,aspect ratio 3.2
+8484,Product,Knives,aspect ratio 5.0
+8562,Product,Batteries,aspect ratio 3.5
+8564,Product,Flipflops,aspect ratio 3.8
+8568,Product,Flipflops,aspect ratio 3.3
+8569,Product,Flipflops,aspect ratio 3.4
+8643,Product,Pencil,aspect ratio 4.2
+8686,Product,Knives,aspect ratio 5.6
+8754,Product,Flipflops,aspect ratio 3.5
+8810,Product,Trash_Can,tiny 63x75
+8817,Product,Knives,aspect ratio 4.8
+8871,Product,Ruler,aspect ratio 7.6
+9006,Product,Flipflops,aspect ratio 4.1
+9019,Product,Flipflops,aspect ratio 3.9
+9058,Product,Mop,aspect ratio 3.1
+9116,Product,Ruler,aspect ratio 7.1
+9209,Product,Pan,aspect ratio 3.5
+9279,Product,Flipflops,aspect ratio 3.0
+9286,Product,Sneakers,aspect ratio 3.0
+9336,Product,Pen,tiny 500x42; aspect ratio 11.9
+9430,Product,Pencil,tiny 44x500; aspect ratio 11.4
+9439,Product,Mop,aspect ratio 3.4
+9488,Product,Flipflops,aspect ratio 3.7
+9553,Product,Soda,aspect ratio 3.0
+9581,Product,Knives,aspect ratio 4.5
+9741,Product,Batteries,aspect ratio 3.5
+9762,Product,Bottle,aspect ratio 3.5
+9784,Product,Ruler,aspect ratio 4.6
+9819,Product,Pencil,tiny 42x500; aspect ratio 11.9
+9827,Product,Ruler,aspect ratio 5.0
+9947,Product,Mop,aspect ratio 3.2
+9985,Product,Fan,aspect ratio 3.5
+9989,Product,Keyboard,aspect ratio 4.6
+9993,Product,Ruler,aspect ratio 6.9
+10004,Product,Ruler,aspect ratio 6.7
+10027,Product,Batteries,aspect ratio 3.2
+10063,Product,Knives,aspect ratio 4.5
+10107,Product,Flipflops,aspect ratio 3.7
+10241,Product,Ruler,aspect ratio 6.8
+10243,Product,Mop,aspect ratio 4.8
+10255,Product,Candles,aspect ratio 3.1
+10330,Product,Scissors,aspect ratio 3.0
+10462,Product,Flipflops,aspect ratio 3.6
+10540,Product,Ruler,aspect ratio 7.2
+10557,Product,Flipflops,aspect ratio 3.0
+10565,Product,Screwdriver,aspect ratio 3.0
+10576,Product,Flipflops,aspect ratio 3.5
+10592,Product,Pencil,tiny 50x500; aspect ratio 10.0
+10665,Product,Screwdriver,aspect ratio 4.8
+10667,Product,Fork,aspect ratio 3.4
+10691,Product,Flipflops,aspect ratio 3.0
+10695,Product,Pen,aspect ratio 7.0
+10846,Product,Flipflops,aspect ratio 3.5
+10920,Product,Marker,tiny 500x63; aspect ratio 7.9
+10926,Product,Exit_Sign,aspect ratio 4.0
+11004,Product,Bottle,aspect ratio 3.2
+11128,Product,Batteries,aspect ratio 4.0
+11879,Real World,Fork,aspect ratio 3.7
+12067,Real World,Spoon,aspect ratio 3.1
+12082,Real World,Keyboard,aspect ratio 3.5
+12101,Real World,Curtains,aspect ratio 3.1
+12396,Real World,Batteries,aspect ratio 3.9
+12628,Real World,Screwdriver,aspect ratio 4.5
+12753,Real World,Batteries,aspect ratio 3.9
+12830,Real World,Keyboard,aspect ratio 3.2
+13230,Real World,Ruler,aspect ratio 5.1
+13352,Real World,Couch,tiny 120x63
+14060,Real World,Screwdriver,aspect ratio 3.7
+14123,Real World,Batteries,aspect ratio 3.2
+14167,Real World,Fork,aspect ratio 3.3
+14216,Real World,Fork,aspect ratio 6.5
+14411,Real World,Fork,aspect ratio 3.3
+14471,Real World,Drill,aspect ratio 3.5
+14533,Real World,Bucket,aspect ratio 3.1
+14695,Real World,Glasses,aspect ratio 5.4
+14830,Real World,Pencil,aspect ratio 6.8
+14950,Real World,Flipflops,tiny 120x63
+15125,Real World,Ruler,aspect ratio 3.4
+15340,Real World,ToothBrush,aspect ratio 4.3
+15389,Real World,Trash_Can,aspect ratio 3.5
+15548,Real World,Screwdriver,aspect ratio 4.1
+6876,Product,Laptop,near-duplicate of row 7089 labelled Computer
+7043,Product,Notebook,near-duplicate of row 8516 labelled Calendar
+7068,Product,Ruler,near-duplicate of row 9433 labelled Screwdriver
+7290,Product,Folder,near-duplicate of row 9070 labelled File_Cabinet
+7290,Product,Folder,near-duplicate of row 9576 labelled File_Cabinet
+7583,Product,TV,near-duplicate of row 7899 labelled Mop
+7587,Product,Folder,near-duplicate of row 11214 labelled File_Cabinet
+7692,Product,Bed,near-duplicate of row 10785 labelled Laptop
+7856,Product,Desk_Lamp,near-duplicate of row 8496 labelled Lamp_Shade
+7877,Product,Folder,near-duplicate of row 9070 labelled File_Cabinet
+7877,Product,Folder,near-duplicate of row 9576 labelled File_Cabinet
+7899,Product,Mop,near-duplicate of row 11186 labelled Fork
+8255,Product,Ruler,near-duplicate of row 8643 labelled Pencil
+8352,Product,Laptop,near-duplicate of row 9627 labelled Computer
+8498,Product,File_Cabinet,near-duplicate of row 10461 labelled Folder
+8830,Product,Speaker,near-duplicate of row 10067 labelled TV
+8902,Product,Computer,near-duplicate of row 9469 labelled Laptop
+9059,Product,Computer,near-duplicate of row 9709 labelled Laptop
+9071,Product,Ruler,near-duplicate of row 10502 labelled Pen
+9617,Product,ToothBrush,near-duplicate of row 10067 labelled TV
+10196,Product,File_Cabinet,near-duplicate of row 10443 labelled Folder

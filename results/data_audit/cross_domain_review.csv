@@ -1,0 +1,15 @@
+product_row,realworld_row,hamming,product_class,realworld_class,pixel_corr,dhash_distance,same_class,product_split,verdict
+8906,13487,0,Chair,Chair,1.0,1,True,train,same photo
+10067,13946,0,TV,Fork,0.636,13,False,train,"similar, different photo"
+9042,11613,2,Calculator,Calculator,0.964,5,True,test,same photo
+8297,13001,4,Marker,Pencil,0.837,5,False,test,"similar, different photo"
+8830,13946,4,Speaker,Fork,0.596,18,False,train,"similar, different photo"
+8957,12671,4,Knives,Drill,0.731,17,False,train,"similar, different photo"
+8957,14404,4,Knives,Knives,0.78,9,True,train,"similar, different photo"
+7113,14271,4,Pencil,Pen,0.853,9,False,test,"similar, different photo"
+9230,12422,4,Drill,Drill,0.782,6,True,train,"similar, different photo"
+9617,13946,4,ToothBrush,Fork,0.743,14,False,train,"similar, different photo"
+9680,11697,4,Speaker,Ruler,0.845,17,False,val,"similar, different photo"
+10364,12422,4,Drill,Drill,0.785,6,True,train,"similar, different photo"
+10502,15413,4,Pen,Pen,0.788,25,True,train,"similar, different photo"
+11098,11697,4,Keyboard,Ruler,0.849,11,False,train,"similar, different photo"

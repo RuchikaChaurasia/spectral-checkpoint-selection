@@ -1,0 +1,84 @@
+{
+  "run_at_utc": "2026-11-07T16:21:35+00:00",
+  "hf_name": "flwrlabs/office-home",
+  "hf_revision": "d430d44779e929b335be368ab3456484e5de36bb",
+  "python": "3.13.16",
+  "domain_names_found": [
+    "Art",
+    "Clipart",
+    "Product",
+    "Real World"
+  ],
+  "count_checks": {
+    "total": {
+      "found": 15588,
+      "expected": 15588,
+      "status": "PASS"
+    },
+    "Product": {
+      "found": 4439,
+      "expected": 4439,
+      "status": "PASS"
+    },
+    "Real World": {
+      "found": 4357,
+      "expected": 4357,
+      "status": "PASS"
+    },
+    "Art": {
+      "found": 2427,
+      "expected": 2427,
+      "status": "PASS"
+    },
+    "Clipart": {
+      "found": 4365,
+      "expected": 4365,
+      "status": "PASS"
+    }
+  },
+  "classes": {
+    "num_classes": 65,
+    "expected": 65,
+    "status": "PASS",
+    "has_class_named_clock": false,
+    "has_alarm_clock": true,
+    "duplicate_names_case_insensitive": [],
+    "classes_with_zero_images": {},
+    "note": "The original Office-Home CSV lists a 'Clock' folder with no images; the HF version drops it, leaving 65 classes. Confirmed here if has_class_named_clock is false."
+  },
+  "product_class_counts": {
+    "min": 38,
+    "min_class": "Postit_Notes",
+    "max": 99,
+    "max_class": "Backpack",
+    "median": 67.0
+  },
+  "unreadable_images": {
+    "count": 0,
+    "row_ids": []
+  },
+  "product_near_duplicates": {
+    "hamming_threshold": 4,
+    "pairs": 422,
+    "exact_hash_pairs": 268,
+    "groups_with_2plus_images": 284,
+    "images_in_such_groups": 628,
+    "largest_group": 8,
+    "groups_with_conflicting_labels": 16
+  },
+  "cross_domain_near_duplicates": {
+    "pairs": 14,
+    "note": "Pairs here mean a Real World test image may look almost identical to a Product image. Review them by eye; report any true duplicates as a leakage limitation."
+  },
+  "flagged_samples": {
+    "count": 457,
+    "by_domain": {
+      "Clipart": 311,
+      "Product": 116,
+      "Real World": 24,
+      "Art": 6
+    },
+    "manual_review_todo": "Look at Real World and Product examples for identifiable people, watermarks and wrong labels; note them in the dataset card."
+  },
+  "seconds": 155.2
+}

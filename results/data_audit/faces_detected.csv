@@ -1,0 +1,413 @@
+row_id,domain,class,faces
+11239,Real World,Sink,2
+11273,Real World,Soda,1
+11318,Real World,Batteries,1
+11325,Real World,Bottle,1
+11348,Real World,Shelf,1
+11350,Real World,Radio,1
+11364,Real World,Glasses,1
+11380,Real World,Flowers,1
+11386,Real World,Sneakers,1
+11392,Real World,Curtains,1
+11404,Real World,Candles,1
+11422,Real World,Refrigerator,1
+11433,Real World,Notebook,1
+11478,Real World,Toys,1
+11482,Real World,Pan,3
+11489,Real World,Bottle,1
+11496,Real World,Scissors,1
+11510,Real World,Bike,1
+11514,Real World,Bike,1
+11539,Real World,Sink,1
+11553,Real World,Computer,1
+11566,Real World,Drill,1
+11597,Real World,Refrigerator,1
+11599,Real World,Radio,1
+11641,Real World,Keyboard,4
+11643,Real World,Table,1
+11652,Real World,Helmet,1
+11653,Real World,Flipflops,4
+11657,Real World,Ruler,1
+11668,Real World,Flowers,1
+11670,Real World,Mug,1
+11679,Real World,Bike,1
+11683,Real World,Oven,1
+11712,Real World,Pan,1
+11723,Real World,Spoon,1
+11758,Real World,Calculator,2
+11776,Real World,Candles,1
+11792,Real World,Soda,1
+11823,Real World,Soda,1
+11825,Real World,Radio,1
+11826,Real World,Bed,1
+11837,Real World,Toys,1
+11840,Real World,Postit_Notes,1
+11846,Real World,Postit_Notes,1
+11848,Real World,Radio,1
+11882,Real World,Shelf,1
+11886,Real World,Batteries,1
+11900,Real World,Flipflops,2
+11904,Real World,Curtains,1
+11912,Real World,Alarm_Clock,1
+11926,Real World,Telephone,1
+11959,Real World,Speaker,1
+11965,Real World,Flipflops,2
+11968,Real World,Bed,2
+11975,Real World,Toys,2
+11983,Real World,Flowers,1
+11988,Real World,File_Cabinet,1
+11999,Real World,ToothBrush,1
+12009,Real World,Sink,1
+12018,Real World,Trash_Can,1
+12033,Real World,Bottle,2
+12036,Real World,Keyboard,1
+12040,Real World,Backpack,1
+12056,Real World,Bike,3
+12075,Real World,Postit_Notes,1
+12081,Real World,Flowers,1
+12084,Real World,Oven,1
+12090,Real World,Bucket,1
+12093,Real World,Soda,1
+12126,Real World,Flowers,1
+12140,Real World,Flipflops,4
+12157,Real World,Bike,1
+12167,Real World,Hammer,1
+12186,Real World,Fan,1
+12191,Real World,Bike,1
+12201,Real World,Flipflops,1
+12213,Real World,Mug,1
+12249,Real World,Couch,1
+12265,Real World,Exit_Sign,1
+12296,Real World,Shelf,4
+12337,Real World,Calculator,1
+12338,Real World,Telephone,1
+12375,Real World,Refrigerator,1
+12383,Real World,ToothBrush,1
+12411,Real World,Paper_Clip,1
+12425,Real World,TV,3
+12479,Real World,Bike,2
+12497,Real World,Radio,1
+12543,Real World,Alarm_Clock,1
+12570,Real World,Toys,2
+12594,Real World,Mug,1
+12637,Real World,Scissors,1
+12639,Real World,Bed,1
+12672,Real World,Telephone,1
+12701,Real World,ToothBrush,1
+12710,Real World,Lamp_Shade,1
+12712,Real World,Flipflops,1
+12729,Real World,Toys,1
+12730,Real World,Backpack,3
+12739,Real World,Alarm_Clock,1
+12763,Real World,Postit_Notes,1
+12790,Real World,Paper_Clip,3
+12827,Real World,Sneakers,1
+12831,Real World,Clipboards,1
+12850,Real World,Flipflops,1
+12857,Real World,Bed,1
+12887,Real World,Alarm_Clock,1
+12890,Real World,Chair,1
+12894,Real World,Mug,2
+12908,Real World,Notebook,1
+12939,Real World,Flipflops,1
+12971,Real World,Alarm_Clock,1
+12972,Real World,Toys,2
+12999,Real World,Drill,1
+13021,Real World,Bike,1
+13079,Real World,Batteries,1
+13080,Real World,Toys,1
+13092,Real World,Trash_Can,2
+13095,Real World,Radio,3
+13104,Real World,Radio,1
+13107,Real World,Fan,1
+13152,Real World,Fan,1
+13194,Real World,Alarm_Clock,1
+13238,Real World,Flowers,1
+13240,Real World,Table,1
+13254,Real World,Backpack,1
+13255,Real World,Alarm_Clock,2
+13271,Real World,Candles,1
+13283,Real World,Alarm_Clock,1
+13285,Real World,Flowers,1
+13287,Real World,Desk_Lamp,1
+13289,Real World,Trash_Can,1
+13294,Real World,Couch,1
+13306,Real World,Alarm_Clock,1
+13312,Real World,Couch,1
+13327,Real World,Exit_Sign,1
+13328,Real World,Glasses,1
+13329,Real World,Bike,1
+13330,Real World,Pan,1
+13351,Real World,Alarm_Clock,1
+13360,Real World,Bottle,1
+13369,Real World,Radio,3
+13374,Real World,Bike,2
+13380,Real World,Soda,1
+13423,Real World,Flipflops,1
+13428,Real World,Flowers,1
+13430,Real World,Refrigerator,1
+13433,Real World,Soda,1
+13436,Real World,Helmet,1
+13447,Real World,Notebook,1
+13458,Real World,Kettle,1
+13501,Real World,Shelf,1
+13521,Real World,Laptop,1
+13524,Real World,Clipboards,1
+13527,Real World,Toys,2
+13543,Real World,Flipflops,1
+13544,Real World,Screwdriver,1
+13600,Real World,Calculator,3
+13610,Real World,Backpack,1
+13618,Real World,Lamp_Shade,1
+13642,Real World,Knives,1
+13662,Real World,Bottle,1
+13663,Real World,Bucket,1
+13681,Real World,Candles,1
+13697,Real World,Exit_Sign,1
+13704,Real World,Clipboards,1
+13718,Real World,Flowers,1
+13745,Real World,Kettle,1
+13747,Real World,Couch,1
+13753,Real World,Mop,1
+13768,Real World,Candles,2
+13782,Real World,TV,1
+13786,Real World,Flipflops,1
+13789,Real World,Alarm_Clock,1
+13794,Real World,Push_Pin,1
+13797,Real World,Glasses,1
+13830,Real World,Refrigerator,1
+13831,Real World,Helmet,1
+13847,Real World,Flowers,1
+13859,Real World,Telephone,1
+13891,Real World,Toys,1
+13897,Real World,Postit_Notes,1
+13924,Real World,Fan,1
+13925,Real World,Bike,1
+13932,Real World,Eraser,1
+13934,Real World,Telephone,1
+13951,Real World,Mop,1
+13970,Real World,Helmet,1
+13988,Real World,ToothBrush,1
+13991,Real World,Sneakers,1
+14002,Real World,Flipflops,1
+14024,Real World,Speaker,1
+14061,Real World,Kettle,1
+14085,Real World,Alarm_Clock,1
+14101,Real World,Candles,1
+14131,Real World,Telephone,1
+14136,Real World,Flipflops,1
+14178,Real World,Paper_Clip,1
+14189,Real World,Telephone,2
+14227,Real World,Radio,3
+14230,Real World,Flowers,1
+14234,Real World,TV,3
+14240,Real World,Soda,1
+14249,Real World,Alarm_Clock,2
+14262,Real World,Backpack,1
+14265,Real World,Bucket,1
+14285,Real World,Batteries,1
+14286,Real World,Candles,1
+14290,Real World,Glasses,1
+14292,Real World,Push_Pin,1
+14313,Real World,Helmet,2
+14343,Real World,Telephone,1
+14347,Real World,Bike,1
+14371,Real World,Printer,1
+14388,Real World,Candles,1
+14448,Real World,Table,1
+14474,Real World,Scissors,1
+14483,Real World,Printer,1
+14518,Real World,Calculator,1
+14540,Real World,Lamp_Shade,1
+14551,Real World,Monitor,1
+14571,Real World,Soda,2
+14575,Real World,Glasses,1
+14586,Real World,Fan,1
+14600,Real World,Paper_Clip,1
+14617,Real World,Candles,1
+14627,Real World,Radio,1
+14640,Real World,Toys,1
+14653,Real World,Fan,1
+14654,Real World,Clipboards,1
+14703,Real World,Curtains,1
+14719,Real World,Fan,1
+14757,Real World,Calculator,1
+14760,Real World,Oven,1
+14772,Real World,Pan,1
+14832,Real World,Curtains,1
+14856,Real World,Telephone,1
+14889,Real World,Flowers,1
+14935,Real World,Bottle,1
+14991,Real World,Candles,1
+15026,Real World,Backpack,1
+15041,Real World,Webcam,1
+15042,Real World,Computer,1
+15097,Real World,Clipboards,1
+15147,Real World,Bike,1
+15166,Real World,Trash_Can,1
+15167,Real World,Bike,1
+15174,Real World,File_Cabinet,1
+15176,Real World,Sneakers,1
+15202,Real World,Bike,1
+15234,Real World,Push_Pin,1
+15253,Real World,Trash_Can,1
+15272,Real World,Alarm_Clock,2
+15278,Real World,Candles,2
+15288,Real World,Keyboard,1
+15290,Real World,Bike,1
+15292,Real World,Trash_Can,1
+15305,Real World,Knives,1
+15318,Real World,ToothBrush,1
+15327,Real World,Calculator,1
+15363,Real World,Backpack,1
+15365,Real World,Pencil,1
+15397,Real World,Lamp_Shade,1
+15402,Real World,Candles,1
+15411,Real World,Push_Pin,1
+15412,Real World,Batteries,1
+15431,Real World,Calculator,1
+15438,Real World,Curtains,2
+15499,Real World,Clipboards,2
+15501,Real World,Sink,1
+15514,Real World,Soda,1
+15546,Real World,Telephone,1
+15575,Real World,TV,1
+15586,Real World,Alarm_Clock,1
+15587,Real World,Flowers,1
+6830,Product,Telephone,2
+6858,Product,Scissors,1
+6860,Product,Bike,1
+6871,Product,Webcam,1
+6877,Product,Batteries,1
+6906,Product,Fan,1
+6907,Product,Calendar,1
+6989,Product,Candles,1
+6997,Product,Soda,1
+7028,Product,Couch,1
+7057,Product,Computer,1
+7172,Product,Monitor,1
+7180,Product,ToothBrush,1
+7226,Product,Telephone,1
+7239,Product,Calculator,2
+7248,Product,ToothBrush,2
+7261,Product,Computer,2
+7285,Product,Alarm_Clock,1
+7289,Product,Push_Pin,1
+7338,Product,Eraser,1
+7365,Product,Calculator,1
+7371,Product,Backpack,1
+7374,Product,Drill,1
+7391,Product,Kettle,1
+7425,Product,Bed,1
+7432,Product,TV,1
+7500,Product,Scissors,1
+7547,Product,Folder,1
+7669,Product,Mop,1
+7680,Product,Helmet,1
+7752,Product,Flowers,1
+7766,Product,ToothBrush,1
+7787,Product,Monitor,1
+7794,Product,Batteries,1
+7805,Product,Telephone,1
+7867,Product,Monitor,1
+7949,Product,Toys,1
+7965,Product,Calculator,3
+8046,Product,Batteries,1
+8076,Product,Sink,1
+8087,Product,Spoon,2
+8118,Product,Batteries,1
+8139,Product,Paper_Clip,6
+8168,Product,Telephone,1
+8180,Product,Kettle,1
+8193,Product,Sneakers,1
+8273,Product,Curtains,1
+8274,Product,Flowers,1
+8280,Product,Batteries,1
+8335,Product,Printer,1
+8436,Product,Shelf,1
+8491,Product,Flipflops,1
+8493,Product,Kettle,1
+8544,Product,Screwdriver,2
+8593,Product,Knives,1
+8604,Product,TV,1
+8623,Product,Kettle,2
+8642,Product,TV,1
+8656,Product,Mug,1
+8675,Product,TV,1
+8727,Product,Drill,1
+8880,Product,Laptop,1
+8889,Product,Monitor,1
+8944,Product,Folder,1
+8974,Product,Bike,1
+8982,Product,Scissors,1
+9044,Product,Scissors,1
+9111,Product,Notebook,1
+9143,Product,Backpack,1
+9159,Product,Calculator,1
+9172,Product,Drill,1
+9237,Product,Candles,1
+9250,Product,Candles,2
+9282,Product,Telephone,4
+9313,Product,TV,1
+9343,Product,Soda,1
+9367,Product,Flowers,1
+9390,Product,Webcam,1
+9421,Product,Webcam,2
+9529,Product,Backpack,1
+9580,Product,Toys,1
+9582,Product,TV,1
+9596,Product,TV,1
+9673,Product,Pan,1
+9692,Product,Bucket,1
+9707,Product,Calculator,1
+9737,Product,Curtains,1
+9774,Product,Trash_Can,1
+9794,Product,TV,1
+9844,Product,Shelf,1
+9848,Product,Flowers,1
+9851,Product,Flowers,1
+9882,Product,Fork,1
+9900,Product,Pencil,1
+9904,Product,TV,1
+9950,Product,Soda,2
+9958,Product,Refrigerator,1
+9960,Product,Calculator,1
+10015,Product,Marker,1
+10030,Product,Toys,1
+10043,Product,Scissors,1
+10046,Product,Telephone,1
+10049,Product,Soda,2
+10073,Product,Eraser,1
+10091,Product,Curtains,1
+10105,Product,Candles,1
+10166,Product,Keyboard,1
+10185,Product,Backpack,1
+10203,Product,Bed,1
+10232,Product,Marker,1
+10244,Product,Paper_Clip,1
+10260,Product,Scissors,1
+10298,Product,Drill,1
+10312,Product,Batteries,1
+10394,Product,Monitor,1
+10473,Product,Scissors,1
+10489,Product,Bike,1
+10505,Product,Scissors,1
+10530,Product,Telephone,3
+10562,Product,Batteries,2
+10588,Product,Calculator,1
+10596,Product,Flipflops,2
+10609,Product,Flowers,1
+10651,Product,Monitor,1
+10680,Product,Bike,1
+10712,Product,Kettle,1
+10806,Product,Telephone,2
+10849,Product,Notebook,1
+10885,Product,Bike,1
+10904,Product,Desk_Lamp,1
+10984,Product,Oven,1
+11023,Product,Calculator,1
+11087,Product,Backpack,2
+11121,Product,Toys,1
+11131,Product,Monitor,1
+11139,Product,Marker,1
+11203,Product,Refrigerator,1
