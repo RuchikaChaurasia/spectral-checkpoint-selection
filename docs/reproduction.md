@@ -102,3 +102,43 @@ python -m src.extras.ablation2_patience score --selections ablation2_selections.
 **Fix needed:** the script first mixed the `all` and `last_stage` alpha rows; it now uses only `scope == all`.
 
 **Verdict: PASS.**
+
+## 4. Main results tables and frozen selections (Disha, Nov 27 2026)
+
+**What I checked:** I re-ran two results that I did not write myself: Shruti's results tables (step 8) and Ruchika's
+frozen checkpoint selections (step 6). I used only what is in the repo and compared my output with the committed files.
+
+**How:** I made a fresh clone of the repo in Google Colab (commit `ce04b5b`) and used a normal CPU runtime. I installed
+the package versions listed in `requirements.txt` (Python 3.13.18, pandas 2.3.3, numpy 2.1.3, scikit-learn 1.6.1).
+Neither step needs a GPU, checkpoints or images, because they only read the saved predictions, the alpha log and the
+training logs. I wrote the new files to a temporary folder so the repo itself was not changed.
+
+**Commands**
+```bash
+python -m src.eval.aggregate --out /tmp/disha_repro/results
+python -m src.spectral.freeze --runs-dir results/runs --out /tmp/disha_repro/frozen_selections.json
+```
+
+**What I found**
+| What I compared | Result |
+|---|---|
+| Main comparison table, per-run table, paired differences | exactly the same |
+| Ablation 1 and 2 tables, per-class recall | exactly the same |
+| Top-15 confusions table | same 15 mistakes with the same counts, but three tied pairs listed in the opposite order |
+| Frozen selections (every run, linear-probe epochs, alpha-log hash) | exactly the same |
+
+**The one difference:** in the top-15 confusions table, some mistakes happen equally often (35, 32 and 31 times), and
+in my run three of these tied pairs came out in swapped order: Radio/Oven and Chair/Table, Shelf/Pencil and Pencil/Pen,
+Screwdriver/Pen and Toys/Push_Pin. The numbers are all the same; only the order of equal rows changed. This happens
+because the sorting function used in `aggregate.py` does not guarantee an order for equal values, and that order can
+depend on the computer. It does not change which 15 mistakes are listed. Shruti can make the order fixed by changing the
+sort to `np.argsort(-off, axis=None, kind="stable")`.
+
+**Anything I had to fix:** nothing. Colab showed a warning that its own package expects an older pandas, but it did
+not affect these steps.
+
+**Worth knowing:** while making the selections, the script reports that Rule W never triggered, so it picks the last
+epoch (30) for every run. That matches the committed selections and is the project's real result, not a problem with
+the reproduction.
+
+**Verdict: PASS.**
