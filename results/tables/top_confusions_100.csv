@@ -1,0 +1,16 @@
+true_class,predicted_as,count_over_3_seeds,share_of_true_class
+Bottle,Soda,75,0.321
+Postit_Notes,Folder,62,0.308
+Couch,Bed,41,0.18
+Monitor,Computer,40,0.188
+Telephone,Calculator,39,0.159
+Computer,Laptop,39,0.203
+Radio,Oven,35,0.177
+Chair,Table,35,0.122
+TV,Monitor,34,0.214
+Keyboard,Calculator,33,0.147
+Shelf,Pencil,32,0.162
+Pencil,Pen,32,0.181
+Screwdriver,Pen,31,0.203
+Toys,Push_Pin,31,0.154
+Lamp_Shade,Desk_Lamp,30,0.128
