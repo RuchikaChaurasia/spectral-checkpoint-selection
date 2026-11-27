@@ -1,0 +1,17 @@
+budget,category,count
+10,Both correct,4763
+10,Both wrong,7571
+10,Rule W breaks,374
+10,Rule W fixes,363
+25,Both correct,6177
+25,Both wrong,6132
+25,Rule W breaks,420
+25,Rule W fixes,342
+50,Both correct,6285
+50,Both wrong,5241
+50,Rule W breaks,1031
+50,Rule W fixes,514
+100,Both correct,6275
+100,Both wrong,4636
+100,Rule W breaks,1336
+100,Rule W fixes,824
