@@ -1,0 +1,4 @@
+run,epoch,selection_method,mode,total_params,trainable_params,latency_mean_ms,latency_median_ms,latency_p95_ms,peak_memory_allocated_mb,peak_memory_reserved_mb,warmup_runs,timed_runs,batch_size,input_size,timing_scope
+ft_b100_s42,12,validation-loss,finetune,11209857,11209857,2.924230229996283,2.7698230743408203,3.4730422496795654,78.99169921875,96.0,10,100,1,3x224x224,model forward pass only; preprocessing excluded
+ft_b100_s42,30,Rule W,finetune,11209857,11209857,2.690564090025873,2.5059280395507812,3.753689765930176,78.99169921875,96.0,10,100,1,3x224x224,model forward pass only; preprocessing excluded
+lp_b100_s42,26,linear probe,linear_probe,11209857,33345,2.6094986999942194,2.5282530784606934,2.9469101428985596,78.99169921875,96.0,10,100,1,3x224x224,model forward pass only; preprocessing excluded
